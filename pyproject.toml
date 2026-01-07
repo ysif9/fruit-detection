@@ -1,0 +1,17 @@
+[project]
+name = "fruit-detection"
+version = "0.1.0"
+description = "Deep learning–based fruit recognition system that classifies images of different fruits using computer vision techniques."
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.5.1",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "pandas-stubs>=2.3.3.251219",
+]
