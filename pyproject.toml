@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "Deep learning–based fruit recognition system that classifies images of different fruits using computer vision techniques."
 requires-python = ">=3.10"
 dependencies = [
+    "datasets>=4.4.2",
+    "huggingface-hub>=1.2.4",
     "ipykernel>=7.1.0",
     "jupyterlab>=4.5.1",
     "kagglehub>=0.3.13",
