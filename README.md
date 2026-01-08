@@ -5,15 +5,15 @@ Deep learning–based fruit recognition system that classifies images of differe
 
 ### Prerequisites
 
-- **Python**: 3.13 or higher
+- **Python**: 3.10 or higher
 - **uv**: Fast Python package manager ([installation guide](https://docs.astral.sh/uv/getting-started/installation/))
 
 ### Steps
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Philodoescode/GridClash.git
-   cd GridClash
+   git clone https://github.com/ysif9/fruit-detection
+   cd fruit-detection
    ```
 
 2. **Install dependencies**
